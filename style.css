@@ -1,0 +1,478 @@
+#headcover{
+width: 100%;
+height: 500px;
+
+}
+
+body{
+
+}
+
+#mainmenu{
+
+    width: 100%;
+    height: 60px;
+    background-color: black;
+    display: flex;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+
+   
+}
+
+#inputhead{
+
+    position: absolute;
+    right: 40px;
+    padding: 3px;
+    width: 10%;
+
+}
+
+#headlogo{
+    height: 50px;
+    position: relative;
+    top: -15px;
+
+}
+
+#lihead{
+margin-left: 10px;
+height: 20px;
+list-style-type: none;
+display: inline;
+padding: 8px;
+float: left;
+
+}
+
+#ahead{
+color: white;
+text-decoration: none;
+
+}
+
+.divh{
+background-color: black;
+height: 100px;
+margin-top: 0%;
+position: relative;
+
+top: -40px;
+
+}
+
+
+.teamdiv{
+
+    height: 320px;
+    width: 100%;
+    background-color: black;
+display: flex;
+position: relative;
+top: -50px;
+
+
+
+}
+
+.hteam{
+color: white;
+text-align: center;
+font-size: 50px;
+position: relative;
+top: 20px;
+
+}
+
+.colteam{
+justify-content: center;
+    height: 250px;
+    width: 33%;
+    padding: 50px;
+}
+
+
+.imgteam{
+height: 150px;
+width: 150px;
+
+margin-left: auto;
+margin-right: auto;
+display: block;
+
+}
+
+.pteam{
+color: white;
+text-align: center;
+}
+
+
+.hchname{
+color: white;
+text-align: center;
+
+}
+
+.workdiv{
+background-color: rgb(42, 40, 40);
+width: 100%;
+height: 600px;
+display: flex;
+position: relative;
+top: -50px;
+}
+
+.colwork{
+    background-color: rgb(219, 208, 208);
+  margin: auto;
+    display: block;
+    height: 400px;
+    width: 20%;
+    border-radius: 10px;
+
+}
+
+.colcolwork{
+
+   
+    padding: 30px;
+    padding-top: 0%;
+    height: 400px;
+
+   
+}
+
+
+.hwork3{
+
+    color: white;
+
+}
+
+.pwork{
+    color: white;
+}
+
+.imgwork{
+    
+    width: 100%;
+    height: 150px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+
+
+}
+
+#colwork{
+    background-color: rgb(42, 40, 40);
+}
+
+.workh2{
+text-align: center;
+
+}
+
+.workh5{
+text-align: center;
+
+}
+
+.workh1{
+    color: white;
+    position: absolute;
+    left: 720px;
+    font-size: 40px;
+}
+
+.divprice{
+
+    width: 100%;
+    height: 600px;
+    background-color: black;
+    position: relative;
+    top: -50px;
+    display: flex;
+}
+
+.colprice{
+
+background-color: white;
+width: 20%;
+height: 400px;
+margin: auto;
+    display: block;
+}
+
+.priceh1{
+color: white;
+position: absolute;
+left: 750px;
+font-size: 40px;
+}
+
+.colcolprice{
+height: 50px;
+margin: auto;
+width: 100%;
+background-color: darkgray;
+display: flex;
+
+
+}
+
+.divpricefooter{
+    height: 100px;
+    width: 100%;
+    background-color: darkgray;
+    display: flex;
+
+
+}
+
+.priceh2{
+    text-align: center;
+   margin: auto;
+}
+
+.priceh10{
+
+    text-align: center;
+
+
+}
+
+
+.pricep{
+    text-align: center;
+}
+
+.btnbuy{
+
+    margin: auto;
+    display: block;
+    text-align: center;
+width: 180px;
+height: 50px;
+
+
+
+}
+
+
+.indiv{
+
+width: 100%;
+height: 600px;
+background-color: rgb(42, 40, 40);
+
+position: relative;
+top: -50px;
+display: flex;
+} 
+
+.colinaddress{
+
+width: 30%;
+height: 350px;
+margin: auto;
+
+
+}
+
+
+.colin{
+    width: 40%;
+    height:360px;
+    background-color: white;
+    box-shadow: 10px 12px rgba(255, 255, 255, 0.308);
+border-radius: 20px;    
+    margin: auto;
+
+
+
+}
+
+.colcolin{
+
+    padding-left: 50px;
+}
+
+.inputt{
+width: 80%;
+height: 30px;
+outline: 0;
+border-width: 0 0 2px;
+border-color: rgb(187, 187, 204)
+}
+
+.submitbtn{
+background-color: black;
+border-color: black;
+border-radius: 5px;
+width: 100px;
+color: white;
+position: relative;
+right:-400px;
+
+
+
+
+}
+
+.address{
+font-size: 50px;
+color: white;
+
+}
+
+.daddress{
+
+    font-size:30px;
+    color: white;
+}
+
+.padd{
+font-size: 25px;
+color: white;
+
+}
+
+.imgfooter{
+width: 100%;
+height: 800px;
+position: relative;
+top: -50px;
+
+
+}
+
+footer{
+    background-color: black;
+}
+
+
+.divfooter{
+width: 100%;
+height: 100px;
+background-color: black;
+display: inline;
+position: relative;
+top: -60px;
+justify-content: center;
+justify-items: center;
+text-align: center;
+bottom: 0%;
+
+}
+
+.afoot{
+display: inline;
+margin: 20px;
+
+}
+
+.logofoot{
+
+    height: 60%;
+    height: 60px;
+
+}
+
+.hfooter{
+    color: white;
+    margin-top: 20px;
+}
+
+
+
+@media only screen and (max-width: 600px) {
+  
+    .hteam{
+
+        justify-self: unset;
+        font-size: 40px;
+
+    }
+    .teamdiv{
+display: block;
+flex-wrap: wrap;
+height: max-content;
+
+    }
+
+    .colteam{
+        margin: auto;
+   
+
+
+    }
+
+    .pwork{
+
+        font-size: 10px;
+
+    }
+
+    .workh5{
+
+        font-size:6.5px;
+
+    }
+
+
+    .colwork{
+width: 25%;
+
+
+    }
+
+    .submitbtn{
+
+    
+        position: absolute;
+        left: 460px;
+        width: 50px;
+
+    }
+
+    .colcolinddress{
+
+        position: relative;
+        top: -60px;
+
+
+    }
+ 
+    .btnbuy{
+
+
+        width: 50%;
+        height: 40px;
+
+    }
+
+    .colprice{
+
+
+        width: 25%;
+
+    }
+
+    #inputhead{
+
+        visibility: hidden;
+        
+    }
+
+  body{
+
+width: fit-content;
+overflow-x: auto;
+overflow-x: hidden;
+
+  }
+
+
+  }
